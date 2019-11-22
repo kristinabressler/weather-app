@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/weather-app/static/css/main.00b4e19c.chunk.css",
-    "main.js": "/weather-app/static/js/main.b34c5452.chunk.js",
-    "main.js.map": "/weather-app/static/js/main.b34c5452.chunk.js.map",
+    "main.css": "/weather-app/static/css/main.45d1880c.chunk.css",
+    "main.js": "/weather-app/static/js/main.0df9f6e2.chunk.js",
+    "main.js.map": "/weather-app/static/js/main.0df9f6e2.chunk.js.map",
     "runtime-main.js": "/weather-app/static/js/runtime-main.630a9fd3.js",
     "runtime-main.js.map": "/weather-app/static/js/runtime-main.630a9fd3.js.map",
     "static/css/2.eb3389c2.chunk.css": "/weather-app/static/css/2.eb3389c2.chunk.css",
     "static/js/2.5042c505.chunk.js": "/weather-app/static/js/2.5042c505.chunk.js",
     "static/js/2.5042c505.chunk.js.map": "/weather-app/static/js/2.5042c505.chunk.js.map",
     "index.html": "/weather-app/index.html",
-    "precache-manifest.cb8edde96ad871907ed9e498804e6455.js": "/weather-app/precache-manifest.cb8edde96ad871907ed9e498804e6455.js",
+    "precache-manifest.2e7475806f0dfb33291ed779d9aadc67.js": "/weather-app/precache-manifest.2e7475806f0dfb33291ed779d9aadc67.js",
     "service-worker.js": "/weather-app/service-worker.js",
     "static/css/2.eb3389c2.chunk.css.map": "/weather-app/static/css/2.eb3389c2.chunk.css.map",
-    "static/css/main.00b4e19c.chunk.css.map": "/weather-app/static/css/main.00b4e19c.chunk.css.map",
+    "static/css/main.45d1880c.chunk.css.map": "/weather-app/static/css/main.45d1880c.chunk.css.map",
     "static/media/sunnyloading.gif": "/weather-app/static/media/sunnyloading.b0bb43cd.gif",
     "static/media/weather-icons.css": "/weather-app/static/media/weathericons-regular-webfont.ecaf8b48.svg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.630a9fd3.js",
     "static/css/2.eb3389c2.chunk.css",
     "static/js/2.5042c505.chunk.js",
-    "static/css/main.00b4e19c.chunk.css",
-    "static/js/main.b34c5452.chunk.js"
+    "static/css/main.45d1880c.chunk.css",
+    "static/js/main.0df9f6e2.chunk.js"
   ]
 }
