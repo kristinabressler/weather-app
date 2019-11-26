@@ -1,26 +1,29 @@
 {
   "files": {
-    "main.css": "/weather-app/static/css/main.45d1880c.chunk.css",
-    "main.js": "/weather-app/static/js/main.0df9f6e2.chunk.js",
-    "main.js.map": "/weather-app/static/js/main.0df9f6e2.chunk.js.map",
+    "main.css": "/weather-app/static/css/main.ef6cd6c8.chunk.css",
+    "main.js": "/weather-app/static/js/main.56a689bf.chunk.js",
+    "main.js.map": "/weather-app/static/js/main.56a689bf.chunk.js.map",
     "runtime-main.js": "/weather-app/static/js/runtime-main.630a9fd3.js",
     "runtime-main.js.map": "/weather-app/static/js/runtime-main.630a9fd3.js.map",
-    "static/css/2.eb3389c2.chunk.css": "/weather-app/static/css/2.eb3389c2.chunk.css",
-    "static/js/2.5042c505.chunk.js": "/weather-app/static/js/2.5042c505.chunk.js",
-    "static/js/2.5042c505.chunk.js.map": "/weather-app/static/js/2.5042c505.chunk.js.map",
+    "static/css/2.ae3938b5.chunk.css": "/weather-app/static/css/2.ae3938b5.chunk.css",
+    "static/js/2.7a0da5ac.chunk.js": "/weather-app/static/js/2.7a0da5ac.chunk.js",
+    "static/js/2.7a0da5ac.chunk.js.map": "/weather-app/static/js/2.7a0da5ac.chunk.js.map",
     "index.html": "/weather-app/index.html",
-    "precache-manifest.2e7475806f0dfb33291ed779d9aadc67.js": "/weather-app/precache-manifest.2e7475806f0dfb33291ed779d9aadc67.js",
+    "precache-manifest.d9bfff6d1936ae2c33e3f92c505da3e3.js": "/weather-app/precache-manifest.d9bfff6d1936ae2c33e3f92c505da3e3.js",
     "service-worker.js": "/weather-app/service-worker.js",
-    "static/css/2.eb3389c2.chunk.css.map": "/weather-app/static/css/2.eb3389c2.chunk.css.map",
-    "static/css/main.45d1880c.chunk.css.map": "/weather-app/static/css/main.45d1880c.chunk.css.map",
+    "static/css/2.ae3938b5.chunk.css.map": "/weather-app/static/css/2.ae3938b5.chunk.css.map",
+    "static/css/main.ef6cd6c8.chunk.css.map": "/weather-app/static/css/main.ef6cd6c8.chunk.css.map",
+    "static/media/all.min.css": "/weather-app/static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/restaurant-thumbnail.jpg": "/weather-app/static/media/restaurant-thumbnail.9cf78a2e.jpg",
+    "static/media/App.css": "/weather-app/static/media/tornado.af13196d.jpg",
     "static/media/sunnyloading.gif": "/weather-app/static/media/sunnyloading.b0bb43cd.gif",
     "static/media/weather-icons.css": "/weather-app/static/media/weathericons-regular-webfont.ecaf8b48.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.630a9fd3.js",
-    "static/css/2.eb3389c2.chunk.css",
-    "static/js/2.5042c505.chunk.js",
-    "static/css/main.45d1880c.chunk.css",
-    "static/js/main.0df9f6e2.chunk.js"
+    "static/css/2.ae3938b5.chunk.css",
+    "static/js/2.7a0da5ac.chunk.js",
+    "static/css/main.ef6cd6c8.chunk.css",
+    "static/js/main.56a689bf.chunk.js"
   ]
 }
