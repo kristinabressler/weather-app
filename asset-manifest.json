@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/weather-app/static/css/main.5e646714.chunk.css",
-    "main.js": "/weather-app/static/js/main.c947f8ab.chunk.js",
-    "main.js.map": "/weather-app/static/js/main.c947f8ab.chunk.js.map",
+    "main.css": "/weather-app/static/css/main.383158a0.chunk.css",
+    "main.js": "/weather-app/static/js/main.1c31b386.chunk.js",
+    "main.js.map": "/weather-app/static/js/main.1c31b386.chunk.js.map",
     "runtime-main.js": "/weather-app/static/js/runtime-main.630a9fd3.js",
     "runtime-main.js.map": "/weather-app/static/js/runtime-main.630a9fd3.js.map",
-    "static/css/2.ae3938b5.chunk.css": "/weather-app/static/css/2.ae3938b5.chunk.css",
-    "static/js/2.987c5da4.chunk.js": "/weather-app/static/js/2.987c5da4.chunk.js",
-    "static/js/2.987c5da4.chunk.js.map": "/weather-app/static/js/2.987c5da4.chunk.js.map",
+    "static/css/2.6a2d7dcc.chunk.css": "/weather-app/static/css/2.6a2d7dcc.chunk.css",
+    "static/js/2.099d97ae.chunk.js": "/weather-app/static/js/2.099d97ae.chunk.js",
+    "static/js/2.099d97ae.chunk.js.map": "/weather-app/static/js/2.099d97ae.chunk.js.map",
     "index.html": "/weather-app/index.html",
-    "precache-manifest.d124c1c434ca0abc97887561cfec36fb.js": "/weather-app/precache-manifest.d124c1c434ca0abc97887561cfec36fb.js",
+    "precache-manifest.4c3164ad42a134cb21d1bd53347c769e.js": "/weather-app/precache-manifest.4c3164ad42a134cb21d1bd53347c769e.js",
     "service-worker.js": "/weather-app/service-worker.js",
-    "static/css/2.ae3938b5.chunk.css.map": "/weather-app/static/css/2.ae3938b5.chunk.css.map",
-    "static/css/main.5e646714.chunk.css.map": "/weather-app/static/css/main.5e646714.chunk.css.map",
+    "static/css/2.6a2d7dcc.chunk.css.map": "/weather-app/static/css/2.6a2d7dcc.chunk.css.map",
+    "static/css/main.383158a0.chunk.css.map": "/weather-app/static/css/main.383158a0.chunk.css.map",
     "static/media/App.css": "/weather-app/static/media/wind.d0c627f8.jpg",
     "static/media/all.min.css": "/weather-app/static/media/fa-solid-900.c2801fb4.svg",
     "static/media/restaurant-thumbnail.jpg": "/weather-app/static/media/restaurant-thumbnail.9cf78a2e.jpg",
@@ -21,9 +21,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.630a9fd3.js",
-    "static/css/2.ae3938b5.chunk.css",
-    "static/js/2.987c5da4.chunk.js",
-    "static/css/main.5e646714.chunk.css",
-    "static/js/main.c947f8ab.chunk.js"
+    "static/css/2.6a2d7dcc.chunk.css",
+    "static/js/2.099d97ae.chunk.js",
+    "static/css/main.383158a0.chunk.css",
+    "static/js/main.1c31b386.chunk.js"
   ]
 }
