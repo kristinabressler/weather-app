@@ -1,16 +1,17 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
+// import 'bootstrap/dist/css/bootstrap.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
-import { BrowserRouter } from "react-router-dom";
-
+import { HashRouter } from "react-router-dom";
+// import 'fontawesome';
+import '@fortawesome/fontawesome-free/css/all.min.css';
 // ReactDOM.render(<App />, document.getElementById('root'));
 
 ReactDOM.render(
-  <BrowserRouter>
+  <HashRouter>
       <App />
-  </BrowserRouter>, 
+  </HashRouter>, 
   document.getElementById('root')
 );
 
