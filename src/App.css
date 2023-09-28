@@ -15,16 +15,26 @@
 .App-link {
   color: #09d3ac;
 }
-@import url('https://fonts.googleapis.com/css?family=Roboto:300,400');
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,400");
 body {
   position: relative;
 }
-html, body, #root, .App {
-  height:100%;
+html,
+body,
+#root,
+.App {
+  height: 100%;
   margin: 0;
 }
-h1, h2, h3, h4, h5, h6, p, a {
-  font-family: 'Roboto', sans-serif;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a {
+  font-family: "Roboto", sans-serif;
   margin: 0;
 }
 .homeback {
@@ -39,10 +49,10 @@ h1, h2, h3, h4, h5, h6, p, a {
   width: 100%;
   height: 100%;
   position: relative;
-  display:flex;
-  flex-direction:column;
-  justify-content:center;
-  align-items:center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   background-color: #2a2a72;
   background-image: linear-gradient(315deg, #2a2a72 0%, #009ffd 74%);
 }
@@ -57,48 +67,48 @@ h1, h2, h3, h4, h5, h6, p, a {
 .clear-night {
   background-color: #0e1233;
 }
-.partly-cloudy-day  {
-  background: url('./images/partly-cloud.jpg') no-repeat;
+.partly-cloudy-day {
+  background: url("./images/partly-cloud.jpg") no-repeat;
   background-size: cover;
   background-position: center;
 }
 .partly-cloudy-night {
-  background: url('./images/partly-cloud-night.jpg') no-repeat;
+  background: url("./images/partly-cloud-night.jpg") no-repeat;
   background-size: cover;
   background-position: center;
 }
 .cloudy {
-  background: url('./images/cloudy.jpg') no-repeat;
+  background: url("./images/cloudy.jpg") no-repeat;
   background-size: cover;
   background-position: center;
 }
 .rain {
-  background: url('./images/rain.jpg') no-repeat;
+  background: url("./images/rain.jpg") no-repeat;
   background-size: cover;
   background-position: center;
 }
 .snow {
-  background: url('./images/snow.jpg') no-repeat;
+  background: url("./images/snow.jpg") no-repeat;
   background-size: cover;
   background-position: center;
 }
 .sleet {
-  background: url('./images/sleet.jpg') no-repeat;
+  background: url("./images/sleet.jpg") no-repeat;
   background-size: cover;
   background-position: center;
 }
 .wind {
-  background: url('./images/wind.jpg') no-repeat;
+  background: url("./images/wind.jpg") no-repeat;
   background-size: cover;
   background-position: center;
 }
 .fog {
-  background: url('./images/fog.jpg') no-repeat;
+  background: url("./images/fog.jpg") no-repeat;
   background-size: cover;
   background-position: center;
 }
 .hail {
-  background: url('./images/hail.jpg') no-repeat;
+  background: url("./images/hail.jpg") no-repeat;
   background-size: cover;
   background-position: center;
 }
@@ -119,12 +129,12 @@ h1, h2, h3, h4, h5, h6, p, a {
   width: 100%;
   /* height: 100%; */
   position: relative;
-  display:flex;
-  flex-direction:column;
-  justify-content:center;
-  align-items:center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   background-repeat: no-repeat;
-    background-size: cover;
+  background-size: cover;
   background-position: center center;
   padding: 40px 0;
 }
@@ -132,11 +142,11 @@ h1, h2, h3, h4, h5, h6, p, a {
   width: 100%;
   height: 100%;
   position: relative;
-  display:flex;
-  flex-direction:column;
-  align-items:center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   background-repeat: no-repeat;
-    background-size: cover;
+  background-size: cover;
   background-position: center center;
   padding: 40px 0;
 }
@@ -146,12 +156,13 @@ h1, h2, h3, h4, h5, h6, p, a {
   margin: 0 auto;
   width: 85%;
   min-width: 300px;
-  background-color: rgba(255, 255, 255, .15);  
+  background-color: rgba(255, 255, 255, 0.15);
   backdrop-filter: blur(5px);
   border-radius: 3px;
-  border: 1px solid rgba(255, 255, 255, .65);
+  border: 1px solid rgba(255, 255, 255, 0.65);
   /*padding: 10px 20px;*/
-  box-shadow: 0 8px 10px 1px rgba(0,0,0,.14), 0 3px 14px 2px rgba(0,0,0,.12), 0 5px 5px -3px rgba(0,0,0,.2);
+  box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14),
+    0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.2);
   margin-bottom: 15px;
 }
 .container2 {
@@ -160,12 +171,13 @@ h1, h2, h3, h4, h5, h6, p, a {
   margin: 40px auto;
   width: 85%;
   min-width: 300px;
-  background-color: rgba(255, 255, 255, .15);  
+  background-color: rgba(255, 255, 255, 0.15);
   /* backdrop-filter: blur(5px); */
   border-radius: 3px;
-  border: 1px solid rgba(255, 255, 255, .65);
+  border: 1px solid rgba(255, 255, 255, 0.65);
   /*padding: 10px 20px;*/
-  box-shadow: 0 8px 10px 1px rgba(0,0,0,.14), 0 3px 14px 2px rgba(0,0,0,.12), 0 5px 5px -3px rgba(0,0,0,.2);
+  box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14),
+    0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.2);
 }
 .cuisine-suggestion {
   position: relative;
@@ -174,19 +186,20 @@ h1, h2, h3, h4, h5, h6, p, a {
   width: 85%;
   min-width: 300px;
   color: white;
-  background-color: rgba(255, 255, 255, .15);  
+  background-color: rgba(255, 255, 255, 0.15);
   backdrop-filter: blur(5px);
   border-radius: 3px;
-  border: 1px solid rgba(255, 255, 255, .65);
+  border: 1px solid rgba(255, 255, 255, 0.65);
   padding: 10px 0 20px;
-  box-shadow: 0 8px 10px 1px rgba(0,0,0,.14), 0 3px 14px 2px rgba(0,0,0,.12), 0 5px 5px -3px rgba(0,0,0,.2);
+  box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14),
+    0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.2);
 }
 .cuisine-suggestion .cuisine-text {
   padding: 20px 0;
 }
 .header h1 {
   text-align: center;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 300;
   margin: 0;
   color: #ffffff;
@@ -199,7 +212,8 @@ h1, h2, h3, h4, h5, h6, p, a {
   display: flex;
   justify-content: space-between;
 }
-.temperaturebox, .forecastbox {
+.temperaturebox,
+.forecastbox {
   width: 49%;
 }
 .temperaturebox {
@@ -215,10 +229,10 @@ h1, h2, h3, h4, h5, h6, p, a {
 }
 .locationbox {
   position: relative;
-   display: -webkit-flex;
+  display: -webkit-flex;
   display: flex;
   -webkit-justify-content: center;
-  justify-content:         center;
+  justify-content: center;
   flex-direction: column;
   /* padding: 20px 20px 0; */
 }
@@ -234,23 +248,23 @@ h1, h2, h3, h4, h5, h6, p, a {
 }
 .cityarea h2 {
   color: #ffffff;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: normal;
   font-size: 2em;
   margin: 0;
 }
 .countryarea {
   position: relative;
-   display: -webkit-flex;
+  display: -webkit-flex;
   display: flex;
   -webkit-justify-content: center;
-  justify-content:         center;
+  justify-content: center;
   margin: 0 auto;
   /* text-align: left; */
 }
 .countryarea h3 {
   margin: 0 0 5px 0;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: normal;
   color: #ffffff;
 }
@@ -268,10 +282,10 @@ h1, h2, h3, h4, h5, h6, p, a {
 }
 .toptempbox {
   position: relative;
-   display: -webkit-flex;
+  display: -webkit-flex;
   display: flex;
   -webkit-justify-content: center;
-  justify-content:         center;
+  justify-content: center;
 }
 .tempbox {
   /* -webkit-flex-basis: 180px;
@@ -283,7 +297,7 @@ h1, h2, h3, h4, h5, h6, p, a {
   padding: 0;
 }
 .react-tabs__tab {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 1em;
   color: white;
   /* transition: 0.2s all; */
@@ -299,8 +313,8 @@ h1, h2, h3, h4, h5, h6, p, a {
   border-radius: 0;
 }
 .react-tabs__tab-panel {
-  -webkit-transition: opacity .15s linear;
-  transition: opacity .15s linear;
+  -webkit-transition: opacity 0.15s linear;
+  transition: opacity 0.15s linear;
 }
 .react-tabs__tab-panel:not(.react-tabs__tab-panel--selected) {
   opacity: 0;
@@ -338,18 +352,18 @@ h1, h2, h3, h4, h5, h6, p, a {
 .temperaturearea span#temp {
   position: relative;
   color: #ffffff;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 10em;
 }
 .temperaturearea #temp:after {
-    content: '';
-    position: absolute;
-    height: 10px;
-    width: 10px;
-    top: 16px;
-    right: -17px;
-    border: 3px solid #ffffff;
-    border-radius: 50%;
+  content: "";
+  position: absolute;
+  height: 10px;
+  width: 10px;
+  top: 16px;
+  right: -17px;
+  border: 3px solid #ffffff;
+  border-radius: 50%;
 }
 .daycard {
   display: flex;
@@ -366,13 +380,13 @@ h1, h2, h3, h4, h5, h6, p, a {
 }
 .daycard #highlowtemp {
   position: relative;
-  margin-right: 6px; 
+  margin-right: 6px;
 }
 .daycard h2 {
   font-weight: 300;
 }
 .daycard #highlowtemp:after {
-  content: '';
+  content: "";
   position: absolute;
   height: 3px;
   width: 3px;
@@ -382,11 +396,11 @@ h1, h2, h3, h4, h5, h6, p, a {
   border-radius: 50%;
 }
 .wconditionsbox {
-   -webkit-align-self: flex-end;
+  -webkit-align-self: flex-end;
   align-self: flex-end;
   padding-bottom: 35px;
   padding-left: 5px;
-   /* -webkit-flex-basis: 100px;
+  /* -webkit-flex-basis: 100px;
   flex-basis:         100px; */
 }
 .wconditionsbox span {
@@ -399,25 +413,26 @@ h1, h2, h3, h4, h5, h6, p, a {
 #wdescription {
   font-size: 1em;
 }
-#wparameter, #wdescription {
+#wparameter,
+#wdescription {
   color: #ffffff;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 .weather > span {
   position: relative;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 1.2rem;
   color: #ffffff;
 }
 .weather > span:before {
-    content: '';
-    position: absolute;
-    left: -10px;
-    top: 0px;
-    height: 3px;
-    width: 3px;
-    border: 2px solid #ffffff;
-    border-radius: 50%;
+  content: "";
+  position: absolute;
+  left: -10px;
+  top: 0px;
+  height: 3px;
+  width: 3px;
+  border: 2px solid #ffffff;
+  border-radius: 50%;
 }
 .main-toggle span {
   margin: 0 0 0 16px;
@@ -426,39 +441,39 @@ h1, h2, h3, h4, h5, h6, p, a {
   margin-left: 11px;
 }
 .weather button {
-		background: #6bbf6b;
-		border: none;
-		border-radius: 30px;
-		outline: none;
-		width: 45px;
-		height: 20px;
-		margin: 5px 5px 0;
-		cursor: pointer;
-    position: relative;
-    cursor: pointer;
-		transition: background .2s;
+  background: #6bbf6b;
+  border: none;
+  border-radius: 30px;
+  outline: none;
+  width: 45px;
+  height: 20px;
+  margin: 5px 5px 0;
+  cursor: pointer;
+  position: relative;
+  cursor: pointer;
+  transition: background 0.2s;
 }
 .weather button:active {
-		background: #67b567;
-	}
+  background: #67b567;
+}
 .weather #unit-toggle {
-		position: absolute;
-		display: inline-block;
-		left: -8px;
-		top: 2px;
-		width: 15px;
-		height: 15px;
-		background: #fff;
-    border-radius: 50%;
-    cursor: pointer;
-		transition: left .2s;
+  position: absolute;
+  display: inline-block;
+  left: -8px;
+  top: 2px;
+  width: 15px;
+  height: 15px;
+  background: #fff;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: left 0.2s;
 }
 #unit-toggle.toggle {
-		left: 16px;
+  left: 16px;
 }
 .cuisine-suggestion h3 span {
   color: black;
-  background-color: rgba(255, 255, 255, .45);
+  background-color: rgba(255, 255, 255, 0.45);
   padding: 5px 8px;
   border-radius: 4px;
 }
@@ -476,7 +491,7 @@ h1, h2, h3, h4, h5, h6, p, a {
   width: 100%;
   align-items: center;
   margin-bottom: 10px;
-  border: 1px solid rgba(255, 255, 255, .45);
+  border: 1px solid rgba(255, 255, 255, 0.45);
 }
 .card .restaurantimg {
   width: 80px;
@@ -487,16 +502,21 @@ h1, h2, h3, h4, h5, h6, p, a {
   width: 100%;
   height: auto;
 }
-.restaurant-details, .single-restaurant-details {
+.restaurant-details,
+.single-restaurant-details {
   text-align: left;
 }
-.restaurant-details h2, .restaurant-details h3, .single-restaurant-details h2, .single-restaurant-details h3 {
+.restaurant-details h2,
+.restaurant-details h3,
+.single-restaurant-details h2,
+.single-restaurant-details h3 {
   padding-bottom: 2px;
 }
 .restaurant-details h2 {
   font-size: 1.2em;
 }
-.restaurant-details span.ratingtext, .single-restaurant-details span.ratingtext {
+.restaurant-details span.ratingtext,
+.single-restaurant-details span.ratingtext {
   font-size: 0.5em;
 }
 .restaurant-details h3 {
@@ -567,7 +587,8 @@ h1, h2, h3, h4, h5, h6, p, a {
 .single-restaurant-details {
   color: white;
 }
-.restaurant-labels, .rlinks {
+.restaurant-labels,
+.rlinks {
   position: relative;
   width: 100%;
   display: flex;
@@ -578,7 +599,8 @@ h1, h2, h3, h4, h5, h6, p, a {
 .rlinks {
   padding-top: 0px;
 }
-.rbox, .rlinkbox {
+.rbox,
+.rlinkbox {
   width: 49%;
   margin-bottom: 20px;
   color: white;
@@ -625,9 +647,10 @@ h1, h2, h3, h4, h5, h6, p, a {
   .weatherbox {
     flex-direction: column;
   }
-  .temperaturebox, .forecastbox {
+  .temperaturebox,
+  .forecastbox {
     width: 100%;
-}
+  }
   .temperaturebox {
     border-right: none;
     margin-bottom: 30px;
@@ -639,38 +662,40 @@ h1, h2, h3, h4, h5, h6, p, a {
   .weatherd {
     text-align: center;
   }
-   .container, .cuisine-suggestion {
-  width: 90%;
-  min-width: 300px;
-}
-.restaurantbox {
-  flex-direction: column;
-}
-.restaurantbox .restaurantimg {
-  margin: 0 auto 30px;
-}
-.restaurant-details h2 {
-  font-size: 0.8em;
-}
-.restaurant-details h3 {
-  font-size: 0.6em;
-}
-.card .restaurantimg {
-  width: 70px;
-  height: 70px;
-}
-.restaurant-details span.ratingtext, .restaurant-details h4 {
-  display: none;
-}
-.rbox:last-child {
-  margin-bottom: 0;
-}
-.rlinkbox {
-  width: 100%;
-}
-.rlinks {
-  flex-direction: column;
-}
+  .container,
+  .cuisine-suggestion {
+    width: 90%;
+    min-width: 300px;
+  }
+  .restaurantbox {
+    flex-direction: column;
+  }
+  .restaurantbox .restaurantimg {
+    margin: 0 auto 30px;
+  }
+  .restaurant-details h2 {
+    font-size: 0.8em;
+  }
+  .restaurant-details h3 {
+    font-size: 0.6em;
+  }
+  .card .restaurantimg {
+    width: 70px;
+    height: 70px;
+  }
+  .restaurant-details span.ratingtext,
+  .restaurant-details h4 {
+    display: none;
+  }
+  .rbox:last-child {
+    margin-bottom: 0;
+  }
+  .rlinkbox {
+    width: 100%;
+  }
+  .rlinks {
+    flex-direction: column;
+  }
 }
 /* @media screen and (min-width: 480px) and (max-width: 900px) {
   /* .container, .cuisine-suggestion {
